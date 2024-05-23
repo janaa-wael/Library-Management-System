@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1692125761 source:c:\users\hp\desktop\courses\c codeblocks\final project lms\dll\dll.c
+	<stdio.h>
+	<stdlib.h>
+	"../STD_TYPES_H.h"
+	"DLL.h"
+
+1692125767 c:\users\hp\desktop\courses\c codeblocks\final project lms\std_types_h.h
+
+1692129937 c:\users\hp\desktop\courses\c codeblocks\final project lms\dll\dll.h
+	"../STD_TYPES_H.h"
+
+1692125769 source:c:\users\hp\desktop\courses\c codeblocks\final project lms\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DLL/DLL.h"
+	"STD_TYPES_H.h"
+
